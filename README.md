@@ -5,6 +5,7 @@ This repository contains a collection of projects built using Java, Python, SQL,
 Each project focuses on practical implementation and real-world problem solving.
 
 🚀 Projects
+
 ☕ CoffeeStore Dashboard (Excel)
 Built an interactive dashboard to analyze coffee store sales data
 Used pivot tables, charts, and slicers for insights
